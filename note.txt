@@ -1,0 +1,5 @@
+We just our local repo to remote github.com repo.
+Few thing happened:
+1.automaticaly created new remote repo under github.com
+2.made connection with your local git repo
+3.add all your commits to remote repo
